@@ -1,84 +1,73 @@
-👋 Hi, I'm Satish Kumar Ramakoti
-💻 Computer Science & Engineering | Full Stack Developer | AI/ML Enthusiast
-I'm a Computer Science and Engineering student at Mohan Babu University
-with a strong interest in full-stack development, databases, and machine
-learning. I enjoy building practical applications, solving problems, and
-continuously improving my technical skills.
-👨‍💻 About Me
-- 🎓 B.Tech in Computer Science and Engineering --- Mohan Babu
-  University
-- 💻 Full Stack Developer Intern experience
-- 🌱 Building applications with React.js, Node.js, Express.js, and
-  MongoDB
-- 🧠 Practicing Data Structures & Algorithms, OOP, and database
-  concepts
-- 🤖 Interested in machine learning and AI
-- 🚀 Projects include a MERN freelancing platform, EduPath, and a
-  Flight Booking Management System
-- 🏆 Secured 1st place in the RBI 90th Quiz (College Zone)
-🛠️ Tech Stack
-💻 Programming Languages
 
+# Hi, I'm Satish Kumar Ramakoti 👋
 
+### Python Full Stack Developer | CSE Graduate | Aspiring Software Developer
 
+Welcome to my GitHub profile! 🚀
 
-🌐 Frontend
+I'm a Computer Science and Engineering graduate passionate about software development, problem-solving, and building practical applications. I'm currently learning Python Full Stack Development and improving my programming skills by working on projects and practicing coding.
 
+## 👨‍💻 About Me
 
+- 🎓 Computer Science and Engineering graduate
+- 💻 Interested in Full Stack Development and Software Engineering
+- 🌱 Currently learning Python Full Stack Development
+- 🚀 Built a freelance application using the MERN stack
+- 🧠 Practicing Python programming and Data Structures & Algorithms
+- 🎯 Looking for entry-level opportunities to learn, grow, and contribute to real-world projects
 
+## 🛠️ Technical Skills
 
+**Languages**
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
-⚙️ Backend
+**Frontend**
+- React.js
 
+**Backend**
+- Node.js
+- Express.js
 
+**Database**
+- MongoDB
+- MySQL
 
-🗄️ Databases
+**Tools**
+- Git
+- GitHub
+- VS Code
 
+## 🚀 Projects
 
-🤖 Machine Learning
+### 1. Freelance Application — MERN Stack
+- Developed a freelance application using MongoDB, Express.js, React.js, and Node.js.
+- Practiced full-stack application development and frontend-backend integration.
 
+### 2. Python Projects
+- Building Python programming skills through hands-on exercises and practice projects.
+- Exploring problem-solving, data structures, and algorithms.
 
+> Project repositories and additional details will be added as I continue building.
 
-🔧 Tools & Concepts
+## 📚 Currently Learning
 
+- Python programming and OOP
+- Full Stack Web Development
+- Data Structures and Algorithms
+- SQL and database management
+- Writing clean, maintainable code
 
+## 🤝 Connect With Me
 
-Core concepts: Data Structures & Algorithms (DSA), Object-Oriented
-Programming (OOP), DBMS, Operating Systems, and Software Engineering.
-🚀 Featured Projects
-💼 Freelancing Platform --- MERN Stack
-A full-stack platform connecting clients and freelancers.
-- Implemented authentication, project posting, job applications, and
-  freelancer assignment.
-- Built REST APIs and integrated MongoDB database operations.
-- Created responsive dashboards and project management features.
-- Tech: MongoDB, Express.js, React.js, Node.js, JWT, Bootstrap
-🎓 EduPath --- Educational Career Guidance Platform
-A responsive educational and career guidance application for students
-exploring paths after 10th and Intermediate.
-- Built pages covering MPC, BiPC, MEC, CEC, and Arts streams.
-- Implemented navigation and routing using React Router.
-- Created pages for courses, career paths, entrance exams, admissions,
-  and career opportunities.
-- Tech: React.js, JavaScript, HTML5, CSS3, React Router
-✈️ Flight Booking Management System
-A relational database project for managing flights, bookings,
-passengers, and cancellations.
-- Designed a normalized database.
-- Created SQL views for schedules, booking history, and available
-  flights.
-- Used JOIN queries for ticketing, refunds, and revenue insights.
-- Tech: MySQL, SQL
-🔗 Explore all my
-repositories
-📊 GitHub Statistics
+- **GitHub:** [@satishkumarramakoti33](https://github.com/satishkumarramakoti33)
 
-📜 Certifications
-- AI Literacy --- IBM SkillsBuild
-- Full Stack Development (MERN) Internship Certificate
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-🤝 Connect With Me
-- 💻 GitHub:
-  satishkumarramakoti33
-- 📧 Email: satishkumarramakoti16@gmail.com
-- 🔗 LinkedIn: \(Add your LinkedIn profile URL here\)
+I'm open to connecting with developers, collaborating on projects, and exploring entry-level software development opportunities.
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+
