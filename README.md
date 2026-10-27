@@ -1,72 +1,96 @@
-# Hi, I'm Satish Kumar Ramakoti 👋
+# 👋 Hi, I'm Satish Kumar Ramakoti
 
-### Python Full Stack Developer | CSE Graduate | Aspiring Software Developer
+### 💻 CSE Graduate | Aspiring Full Stack Developer | Python Learner
 
 Welcome to my GitHub profile! 🚀
 
-I'm a Computer Science and Engineering graduate passionate about software development, problem-solving, and building practical applications. I'm currently learning Python Full Stack Development and improving my programming skills by working on projects and practicing coding.
+I'm a Computer Science and Engineering graduate passionate about building web applications, solving problems, and learning new technologies. I have built a freelance application using the MERN stack and am currently strengthening my Python Full Stack development skills.
+
+---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science and Engineering graduate
-- 💻 Interested in Full Stack Development and Software Engineering
-- 🌱 Currently learning Python Full Stack Development
-- 🚀 Built a freelance application using the MERN stack
-- 🧠 Practicing Python programming and Data Structures & Algorithms
-- 🎯 Looking for entry-level opportunities to learn, grow, and contribute to real-world projects
-
-## 🛠️ Technical Skills
-
-**Languages**
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
-
-**Frontend**
-- React.js
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-
-## 🚀 Projects
-
-### 1. Freelance Application — MERN Stack
-- Developed a freelance application using MongoDB, Express.js, React.js, and Node.js.
-- Practiced full-stack application development and frontend-backend integration.
-
-### 2. Python Projects
-- Building Python programming skills through hands-on exercises and practice projects.
-- Exploring problem-solving, data structures, and algorithms.
-
-> Project repositories and additional details will be added as I continue building.
-
-## 📚 Currently Learning
-
-- Python programming and OOP
-- Full Stack Web Development
-- Data Structures and Algorithms
-- SQL and database management
-- Writing clean, maintainable code
-
-## 🤝 Connect With Me
-
-- **GitHub:** [@satishkumarramakoti33](https://github.com/satishkumarramakoti33)
-
-I'm open to connecting with developers, collaborating on projects, and exploring entry-level software development opportunities.
+- 🌱 Currently learning **Python Full Stack Development**
+- 🚀 Built a **Freelance Application using the MERN Stack**
+- 💡 Interested in software development and real-world projects
+- 🧠 Practicing Python, SQL, and Data Structures & Algorithms
+- 🎯 Looking for opportunities to grow as a software developer
+- 🤝 Open to collaborating on interesting projects
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+## 🛠️ Tech Stack
 
+### 🌐 Frontend
+
+
+\
+
+
+### ⚙️ Backend
+
+
+\
+
+
+### 🗄️ Database
+
+\
+
+
+### 🔧 Tools
+
+
+\
+
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 Freelance Application — MERN Stack
+
+A full-stack freelance application built using the MERN technology stack.
+
+- ⚛️ Frontend: React.js
+- 🟢 Backend: Node.js and Express.js
+- 🍃 Database: MongoDB
+
+🔗 Explore my repositories: [GitHub Projects](https://github.com/satishkumarramakoti33?tab=repositories)
+
+### 🐍 Python Learning Projects
+
+Hands-on exercises and projects as I improve my Python programming, problem-solving, and development skills.
+
+🔗 [Explore Python Projects](https://github.com/satishkumarramakoti33?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+
+
+
+
+
+
+---
+
+## 🎯 My Current Goals
+
+- 📚 Improve Python and object-oriented programming
+- 💻 Build practical full-stack applications
+- 🧩 Strengthen Data Structures & Algorithms
+- 🌐 Learn industry-standard development practices
+- 🚀 Prepare for software development opportunities
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 **GitHub:** [satishkumarramakoti33](https://github.com/satishkumarramakoti33)
+
+I'm always interested in learning, building, and collaborating. Thanks for visiting my profile! ⭐
+
+**Keep Learning. Keep Building. Keep Growing. 🚀**
