@@ -1,96 +1,84 @@
-# 👋 Hi, I'm Satish Kumar Ramakoti
-
-### 💻 CSE Graduate | Aspiring Full Stack Developer | Python Learner
-
-Welcome to my GitHub profile! 🚀
-
-I'm a Computer Science and Engineering graduate passionate about building web applications, solving problems, and learning new technologies. I have built a freelance application using the MERN stack and am currently strengthening my Python Full Stack development skills.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science and Engineering graduate
-- 🌱 Currently learning **Python Full Stack Development**
-- 🚀 Built a **Freelance Application using the MERN Stack**
-- 💡 Interested in software development and real-world projects
-- 🧠 Practicing Python, SQL, and Data Structures & Algorithms
-- 🎯 Looking for opportunities to grow as a software developer
-- 🤝 Open to collaborating on interesting projects
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
+👋 Hi, I'm Satish Kumar Ramakoti
+💻 Computer Science & Engineering | Full Stack Developer | AI/ML Enthusiast
+I'm a Computer Science and Engineering student at Mohan Babu University
+with a strong interest in full-stack development, databases, and machine
+learning. I enjoy building practical applications, solving problems, and
+continuously improving my technical skills.
+👨‍💻 About Me
+- 🎓 B.Tech in Computer Science and Engineering --- Mohan Babu
+  University
+- 💻 Full Stack Developer Intern experience
+- 🌱 Building applications with React.js, Node.js, Express.js, and
+  MongoDB
+- 🧠 Practicing Data Structures & Algorithms, OOP, and database
+  concepts
+- 🤖 Interested in machine learning and AI
+- 🚀 Projects include a MERN freelancing platform, EduPath, and a
+  Flight Booking Management System
+- 🏆 Secured 1st place in the RBI 90th Quiz (College Zone)
+🛠️ Tech Stack
+💻 Programming Languages
 
 
-\
 
 
-### ⚙️ Backend
-
-
-\
-
-
-### 🗄️ Database
-
-\
-
-
-### 🔧 Tools
-
-
-\
-
-
----
-
-## 🚀 Featured Projects
-
-### 💼 Freelance Application — MERN Stack
-
-A full-stack freelance application built using the MERN technology stack.
-
-- ⚛️ Frontend: React.js
-- 🟢 Backend: Node.js and Express.js
-- 🍃 Database: MongoDB
-
-🔗 Explore my repositories: [GitHub Projects](https://github.com/satishkumarramakoti33?tab=repositories)
-
-### 🐍 Python Learning Projects
-
-Hands-on exercises and projects as I improve my Python programming, problem-solving, and development skills.
-
-🔗 [Explore Python Projects](https://github.com/satishkumarramakoti33?tab=repositories)
-
----
-
-## 📊 GitHub Statistics
+🌐 Frontend
 
 
 
 
 
+⚙️ Backend
 
 
----
 
-## 🎯 My Current Goals
+🗄️ Databases
 
-- 📚 Improve Python and object-oriented programming
-- 💻 Build practical full-stack applications
-- 🧩 Strengthen Data Structures & Algorithms
-- 🌐 Learn industry-standard development practices
-- 🚀 Prepare for software development opportunities
 
----
+🤖 Machine Learning
 
-## 🤝 Connect With Me
 
-- 💻 **GitHub:** [satishkumarramakoti33](https://github.com/satishkumarramakoti33)
 
-I'm always interested in learning, building, and collaborating. Thanks for visiting my profile! ⭐
+🔧 Tools & Concepts
 
-**Keep Learning. Keep Building. Keep Growing. 🚀**
+
+
+Core concepts: Data Structures & Algorithms (DSA), Object-Oriented
+Programming (OOP), DBMS, Operating Systems, and Software Engineering.
+🚀 Featured Projects
+💼 Freelancing Platform --- MERN Stack
+A full-stack platform connecting clients and freelancers.
+- Implemented authentication, project posting, job applications, and
+  freelancer assignment.
+- Built REST APIs and integrated MongoDB database operations.
+- Created responsive dashboards and project management features.
+- Tech: MongoDB, Express.js, React.js, Node.js, JWT, Bootstrap
+🎓 EduPath --- Educational Career Guidance Platform
+A responsive educational and career guidance application for students
+exploring paths after 10th and Intermediate.
+- Built pages covering MPC, BiPC, MEC, CEC, and Arts streams.
+- Implemented navigation and routing using React Router.
+- Created pages for courses, career paths, entrance exams, admissions,
+  and career opportunities.
+- Tech: React.js, JavaScript, HTML5, CSS3, React Router
+✈️ Flight Booking Management System
+A relational database project for managing flights, bookings,
+passengers, and cancellations.
+- Designed a normalized database.
+- Created SQL views for schedules, booking history, and available
+  flights.
+- Used JOIN queries for ticketing, refunds, and revenue insights.
+- Tech: MySQL, SQL
+🔗 Explore all my
+repositories
+📊 GitHub Statistics
+
+📜 Certifications
+- AI Literacy --- IBM SkillsBuild
+- Full Stack Development (MERN) Internship Certificate
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+🤝 Connect With Me
+- 💻 GitHub:
+  satishkumarramakoti33
+- 📧 Email: satishkumarramakoti16@gmail.com
+- 🔗 LinkedIn: \(Add your LinkedIn profile URL here\)
